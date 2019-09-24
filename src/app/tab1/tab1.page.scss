@@ -1,4 +1,13 @@
 .welcome-card img {
   max-height: 35vh;
   overflow: hidden;
+  background-color: #000;
+}
+.card {
+  background-color: #000; // black
+}
+body { // styles applied to body tag
+  background-color: lightblue;
+  text-align: center;
+  font-size: 20px;
 }
